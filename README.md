@@ -1,2 +1,2 @@
 # deep-learning-with-pytorch
-This is a complete guide from A to Z for deep learning with pytorch. It includes 2 tutorial files and a ...
+A complete guide of learning the basic concepts of deep learning with pytorch. Feel free to browse and use any code.
